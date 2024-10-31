@@ -1,0 +1,4 @@
+/* CSS Document */
+div#message { padding:10px; }
+div#form-buttons input[type="submit"] { padding:5px; }
+table.form-table tr td { padding:3px; }
